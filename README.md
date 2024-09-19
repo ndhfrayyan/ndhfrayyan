@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 <p center="left">
   <a href="https://codeforces.com/profile/ndhfrayyan">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ndhfrayyan" height=225>
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ndhfrayyan" height=200>
   </a>
   <a href="https://leetcode.com/u/ndhfrayyan">
-    <img src="https://leetcard.jacoblin.cool/ndhfrayyan?theme=light&font=Karma&ext=contest" height=225>
+    <img src="https://leetcard.jacoblin.cool/ndhfrayyan?theme=light&font=Karma&ext=contest" height=200>
   </a>
 </p>
 
