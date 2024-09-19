@@ -1,4 +1,4 @@
-## 2nd year @UofT, Candidate H.BSc, Major in Stats, and Minor in Econ
+## 2nd year @UofT, Candidate HBSc
 
 I'm Rayyan, currently learning computer science, stats, and econ. I love coding and gaming in my free time. I am currently searching for work for my co-op program
 
