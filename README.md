@@ -30,6 +30,7 @@ I'm Rayyan, currently learning computer science, stats, and econ. I love coding 
 <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white">
 <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
 <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+<img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
 </p>
 
 ### Connect with me
