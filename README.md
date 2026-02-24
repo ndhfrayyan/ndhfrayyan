@@ -1,6 +1,6 @@
-## 3rd year @UofT, Candidate HBSc
+## 4th year @UofT, Candidate HBSc
 
-I'm Rayyan, currently learning computer science, stats, and econ. I love coding and gaming in my free time. My current interest is around databases, AI, and cyber security. I have experience on working with distributed database performance in Huawei. I am currently looking for internship opportunity for Fall 2025
+I'm Rayyan, currently learning computer science and stats. I love coding and gaming in my free time. My current interest is around databases, AI, and cyber security. I have experience on working with distributed database performance in Huawei. I will be working as an automotive software engineer intern in Qualcomm during Summer 2026
 
 ### 📈 Coding profiles stats
 
